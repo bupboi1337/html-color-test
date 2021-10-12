@@ -1,6 +1,7 @@
 # html-color-test
 Something to test color in html.
 
+When run you should see some colored text.
+
 # How To Run:
-Step 1: Open with your favorite browser
-Step 2: Done!
+Open with your favorite browser and then your done!
